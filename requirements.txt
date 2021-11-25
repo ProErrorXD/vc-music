@@ -1,4 +1,4 @@
-git+https://github.com/kishannn07/yt-dl@master
+git+https://github.com/DeCodeOwner/yt-dl@master
 pyrogram
 TgCrypto
 py-tgcalls
