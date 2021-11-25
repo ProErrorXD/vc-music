@@ -31,7 +31,7 @@
 
 # Deploy On Railway
 
-[![gana+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kishannn07/vc-muisc&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,BOT_OWNER,LOG_CHANNEL,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![zaid+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kishannn07/vc-muisc&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,BOT_OWNER,LOG_CHANNEL,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 ## DEPLOY ON HEROKU 🚀
 
