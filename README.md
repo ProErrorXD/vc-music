@@ -1,8 +1,6 @@
 
 # [𝐠𝐚𝐧𝐚 𝗠𝘂𝘀𝗶𝗰](https://t.me/gana_music_Bot) 
 
-![gana](https://github.com/kishannn07/vc-music/blob/Pytgcalls/20211105_114009.gif) 
-
 #  ✅Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/gana_Support)
 
 [![gana](https://img.shields.io/badge/gana%20-Support%20-blue)](https://t.me/gana_Support)
