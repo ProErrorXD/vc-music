@@ -1,9 +1,9 @@
 
 
-#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/DeCodeSupport)
+#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/gana_Support)
 
-[![DeCode](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/DeCodeSupport)
-[![DeCode](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/DeeCodeBots)
+[![gana](https://img.shields.io/badge/gana%20-Support%20-pink)](https://t.me/gana_Support)
+[![gana](https://img.shields.io/badge/gana%20-Updates%20-pink)](https://t.me/gana_updates)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
@@ -27,10 +27,6 @@
 
 ## 💡 How To Host ❓️
 
-
-# Deploy On Railway
-
-[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/DeCodeOwner/DeCoDeMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,BOT_OWNER,LOG_CHANNEL,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 ## DEPLOY ON HEROKU 🚀
 
