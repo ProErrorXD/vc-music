@@ -1,14 +1,7 @@
-[![Build Status](https://travis-ci.com/sahyam2019/oub-remix.svg?branch=sql-extended)](https://travis-ci.com/sahyam2019/oub-remix) 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/38fee611df7c4312be63a15cad64a50a)](https://www.codacy.com/manual/kishannn07/vc-music?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TeamDeeCode/DeCoDeMusic&amp;utm_campaign=Badge_Grade)![Last Commit](https://img.shields.io/github/last-commit/TeamDeeCode/DeCoDeMusic)
-![Contributers](https://img.shields.io/github/contributors/sahyam2019/oub-remix) ![Forks](https://img.shields.io/github/forks/kishannn07/vc-music)     
-![GitHub Repo stars](https://img.shields.io/github/stars/kishannn07/vc-music?color=blue&style=flat)![GitHub issues](https://img.shields.io/github/issues/kishannn07/vc-music)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/kishannn07/vc-muisc)![GitHub pull requests](https://img.shields.io/github/issues-pr/kishannn07/vc-music)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/kishannn07/vc-muisc)
-![GitHub repo size](https://img.shields.io/github/repo-size/TeamDeeCode/DeCoDeMusic?color=red)![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kishannn07/vc-muisc)
-![GitHub](https://img.shields.io/github/license/kishannn07/vc_music) 
+
 # [𝐠𝐚𝐧𝐚 𝗠𝘂𝘀𝗶𝗰](https://t.me/gana_music_Bot) 
 
-![gana](https://github.com/kishannn07/vc-muisc/blob/Pytgcalls/20211105_114009.gif) 
+![gana](https://github.com/kishannn07/vc-music/blob/Pytgcalls/20211105_114009.gif) 
 
 #  ✅Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/gana_Support)
 
