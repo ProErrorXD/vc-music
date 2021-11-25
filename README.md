@@ -24,9 +24,8 @@
 ❍ /refresh - Refresh admin list
 
 ## DEPLOY ON HEROKU 🚀
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kishannn07/vc-music)
 
 
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kishannn07/vc-music"><img src="https://img.shields.io/badge/gana-heroku-red?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
 #special thanks to decode owner and devs 
 https://t.me/DeeCodeDevs
